@@ -14,7 +14,7 @@ This perambulator reports it's position via bluetooth low energy. The code is wr
 * quadrature encoder 
 * photoelectric incremental rotary encoder 
 * a rubber wheel
-* a stick to mount it all too
+* a stick to mount everything to.
 * a shaft coupler to connect the wheel to the encoder!
 
 ![Wemos-MINI-D1-ESP32](https://user-images.githubusercontent.com/636239/165916315-e3b9b9d8-247b-4850-b3c6-e06e618442e4.jpg)
