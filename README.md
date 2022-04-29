@@ -2,7 +2,7 @@
 
 The measuring wheel – also known as a surveyor's wheel, clickwheel, perambulator, hodometer, waywiser or trundle wheel – is a tool used to measure distances.
 
-This perambulator reports it's position via bluetooth low energy. 
+This perambulator reports it's position via bluetooth low energy. The code is written for the Platformio IDE extension for Visual Studio code.
 
 ## Construction guide.
 
